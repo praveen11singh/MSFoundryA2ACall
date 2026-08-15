@@ -1,4 +1,6 @@
 from azure.identity import DefaultAzureCredential
+import asyncio
+import os
 from azure.ai.projects import AIProjectClient
 from azure.ai.projects.models import PromptAgentDefinition, A2APreviewTool
 from dotenv import load_dotenv

@@ -69,5 +69,4 @@ The script will:
 | `MODEL_DEPLOYMENT` | Azure OpenAI model deployment name (e.g., "gpt-4") |
 
 ## License
-
-MIT
+NA
